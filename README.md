@@ -1,5 +1,7 @@
 # batterymon-clone
 
+Note: After 8 years without making changes to this code, _denilsonsa_ decided to archive this repository. If you are interested, please look at [other forks](https://github.com/sayamindu/batterymon-clone/network). At the time of archival, [_ixxra_'s fork](https://github.com/ixxra/batterymon-clone) seems to be the one with most activity.
+
 ## Summary
 
 **batterymon-clone** is a simple battery monitor tray icon for Linux.
